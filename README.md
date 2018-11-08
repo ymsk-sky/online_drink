@@ -1,24 +1,23 @@
-# README
+# Ruby on Rails 学習用アプリケーション
+[*Ruby on Rails チュートリアル*](https://railstutorial.jp/)参考。
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# 使い方
 
-Things you may want to cover:
+```
+$ bundle install --without production
+```
 
-* Ruby version
+```
+rails db:migrate
+```
 
-* System dependencies
+```
+rails test
+```
 
-* Configuration
+```
+rails server
+```
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# WebRTC
+使う予定
