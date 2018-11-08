@@ -1,7 +1,7 @@
 # Ruby on Rails 学習用アプリケーション
 [*Ruby on Rails チュートリアル*](https://railstutorial.jp/)参考。
 
-# 使い方
+## 使い方
 RubyGemsをインストールする。
 ```
 $ bundle install --without production
